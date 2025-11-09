@@ -1,4 +1,4 @@
-**Rublica**
+**Rubrica**
 
 
 Segundo Parcial Practico - TenantAPI
